@@ -325,7 +325,7 @@ else:
     print("Not Eligible")
 
 
-# ------------------ Problem 36 ------------------
+# Problem 36 
 print("\nProblem 36: Password Strength")
 length = int(input("Length: "))
 upper = int(input("Uppercase count: "))
@@ -340,7 +340,7 @@ else:
     print("Weak")
 
 
-# ------------------ Problem 37 ------------------
+# Problem 37 
 print("\nProblem 37: Admission Eligibility")
 m = int(input("Maths: "))
 p = int(input("Physics: "))
